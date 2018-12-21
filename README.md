@@ -1,1 +1,2 @@
 # CardGame
+This project simulates a two player card game with a standard fifty two card playing deck. The goal of the game is to end up with the most cards in your hand. Each player takes turns placing their top card from their equally divided hands on the "table." If the suit of the placed card matches the suit of the top card of the deck, the player recieves all the cards on the table. Otherwise, it becomes the next plaayers turn. Each player's shuffled hand are stored in linked lists.
